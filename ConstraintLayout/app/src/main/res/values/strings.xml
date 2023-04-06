@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="primeiro_botao">ANTERIOR</string>
+    <string name="segundo_botao">PRÓXIMO</string>
+    <string name="autor">Dimerson Coelho</string>
+    <string name="chamada">Aprenda sobre edição de imagens</string>
+    <string name="data">06/04/2023</string>
+    <string name="texto_principal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet elementum orci nec sollicitudin. Aenean consequat convallis augue, a vestibulum justo convallis vitae. Nam vestibulum a quam a vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed leo mi, congue at magna sodales, interdum feugiat nibh. Sed egestas aliquet turpis quis suscipit. Nam eu consequat sapien.</string>
+</resources>
