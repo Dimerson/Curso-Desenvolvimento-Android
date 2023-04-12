@@ -10,3 +10,5 @@ Repositório para guardar os projetos que serão criados durante o curso "Desenv
 4 - ContraintLayout: Um projeto de uma página simples de notícia onde aprendemos sobre manipulamento básico de imagens, posicionamento dos constraints na tela, organização dos elementos e a função de scroll na tela.
 
 5 - Netflix: um app onde tentamos imitar o modelo de design do app Netflix.
+
+6 - FrasesdoDia: app onde ao apertar um botão gera uma frase aleatória. Ainda falta ajustar o tratamento de iniciar a frase com letra maiúscula.
