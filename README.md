@@ -12,3 +12,5 @@ Repositório para guardar os projetos que serão criados durante o curso "Desenv
 5 - Netflix: um app onde tentamos imitar o modelo de design do app Netflix.
 
 6 - FrasesdoDia: app onde ao apertar um botão gera uma frase aleatória. Ainda falta ajustar o tratamento de iniciar a frase com letra maiúscula.
+
+7 - Jokenpo: app simples de jogar jokenpo (humano contra maquina). Colocou em prática conceitos de Java aprendidos no curso.
