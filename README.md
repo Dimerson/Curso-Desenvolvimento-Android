@@ -14,3 +14,5 @@ Repositório para guardar os projetos que serão criados durante o curso "Desenv
 6 - FrasesdoDia: app onde ao apertar um botão gera uma frase aleatória. Ainda falta ajustar o tratamento de iniciar a frase com letra maiúscula.
 
 7 - Jokenpo: app simples de jogar jokenpo (humano contra maquina). Colocou em prática conceitos de Java aprendidos no curso.
+
+8 - AlcoolOuGasolina: Aplicativo onde, dado o preço do Álcool e da Gasolina, afirma qual o mais em conta pra ser abastecido.
