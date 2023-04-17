@@ -16,3 +16,5 @@ Repositório para guardar os projetos que serão criados durante o curso "Desenv
 7 - Jokenpo: app simples de jogar jokenpo (humano contra maquina). Colocou em prática conceitos de Java aprendidos no curso.
 
 8 - AlcoolOuGasolina: Aplicativo onde, dado o preço do Álcool e da Gasolina, afirma qual o mais em conta pra ser abastecido.
+
+9 - CalculadoraGorjeta: Aplicativo para calcular quanto de gorjeta deve ser dado ao restaurante. Ainda falta tratar o resultado para exibir somente duas casas decimais.
