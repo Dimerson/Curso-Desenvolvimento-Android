@@ -30,6 +30,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/inputUsuario"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_text"
@@ -37,7 +38,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <SeekBar
-        android:id="@+id/seekBar"
+        android:id="@+id/seekBar1"
         android:layout_width="0dp"
         android:layout_height="16dp"
         android:layout_marginStart="70dp"
@@ -86,7 +87,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/textoGorjeta"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -101,7 +102,7 @@
         tools:text="0.00" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textoTotal"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
